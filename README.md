@@ -16,6 +16,15 @@ https://github.com/chatzz06/Ai-Dots-game
 🎨 Clean and modern user interface
 ⚡ Smooth gameplay using JavaScript
 
+## ▶️ How to Run
+1. Open project folder 
+2. Install **Live Server** extension
+3. Open `index.html`
+4. Click **“Open with Live Server”**
+5. Play the game in browser 🎮
+
+---
+
 🛠️ Built With
 
   HTML5
@@ -64,6 +73,7 @@ Contributions are welcome!
 ## 📄 License
 
 This project is licensed under the No License
+
 ## 👨‍💻 Author
 
 **Chaturya B**
