@@ -69,3 +69,7 @@ This project is licensed under the No License
 **Chaturya B**
 
 GitHub: https://github.com/chatzz06
+
+## ⭐ Support
+
+If you found this useful, don’t forget to give it a ⭐ on GitHub. It motivates me to improve it!
