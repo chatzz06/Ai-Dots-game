@@ -32,8 +32,6 @@ Ai-Dots-game/
 
 │── script.js
 
-│── assets/
-
 │── README.md
 
 ## 🎮 How to Play
