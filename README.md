@@ -36,22 +36,6 @@ Ai-Dots-game/
 
 │── README.md
 
-## ▶️ Getting Started
-
-1. Clone the repository
-
-git clone https://github.com/chatzz06/Ai-Dots-game.git
-
-2. Open the project folder
-
-cd Ai-Dots-game
-
-3. Run the game
-
-Simply open **index.html** in your browser.
-
-Or use the VS Code **Live Server** extension for a better development experience.
-
 ## 🎮 How to Play
 
 - Click on a line between two dots to claim it.
