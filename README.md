@@ -25,10 +25,15 @@ https://github.com/chatzz06/Ai-Dots-game
 📂 Project Structure
 
 Ai-Dots-game/
+
 │── index.html
+
 │── style.css
+
 │── script.js
+
 │── assets/
+
 │── README.md
 
 ## ▶️ Getting Started
